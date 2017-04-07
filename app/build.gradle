@@ -16,6 +16,7 @@ android {
             keyPassword '123.qsx'
             storeFile file('zhhb.jks')
             storePassword '123.qsx'
+
         }
     }
 
